@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Meu CEP</string>
+    <string name="hint_cep">CEP</string>
+    <string name="button_text_buscar_cep">Buscar CEP</string>
+    <string name="hint_logradouro">Logradouro</string>
+    <string name="hint_bairro">Bairro</string>
+    <string name="hint_cidade">Cidade</string>
+    <string name="hint_estado">Estado</string>
+    <string name="textview_resultados">RESULTADOS</string>
+    <string name="bt_limpar_campos">Limpar Campos</string>
+</resources>
